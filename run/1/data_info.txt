@@ -1,0 +1,25 @@
+train 資料集各類別數量:
+  BEE HONEY: 386
+  BEE PUPA: 2553
+  EGG: 1314
+  LATTICE: 856
+  NYMPH: 258
+  POLLEN: 254
+------------------------------
+valid 資料集各類別數量:
+  BEE HONEY: 95
+  BEE PUPA: 843
+  EGG: 376
+  LATTICE: 201
+  NYMPH: 48
+  POLLEN: 43
+------------------------------
+test 資料集各類別數量:
+  BEE HONEY: 77
+  BEE PUPA: 402
+  EGG: 138
+  LATTICE: 97
+  NYMPH: 60
+  POLLEN: 49
+------------------------------
+train:val:test : 116:33:17

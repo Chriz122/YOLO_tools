@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['BEE HONEY', 'BEE PUPA', 'EGG', 'LATTICE', 'NYMPH', 'POLLEN']

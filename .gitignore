@@ -1,4 +1,4 @@
-# # 忽略資料目錄
-# data/
-# models/
-# run/
+# 忽略資料目錄
+data/
+models/
+run/

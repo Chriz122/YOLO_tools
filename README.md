@@ -27,11 +27,13 @@ YOLO_tools/
 │      ├─ valid/             # 驗證集
 │      └─ test/              # 測試集
 │
-└─ script/                    # 腳本目錄
-    ├─ dataset2train_val_test/           # 數據集處理腳本
-    │  ├─ dataset_classes_analysis.py     # 類別分析工具
-    │  └─ X-AnyLabeling2YOLO.py          # 標註格式轉換工具
-    │
-    └─ heatmap_QT/                       # 熱力圖生成工具
-        └─ YOLO_heatmap_QTv2.py          # 熱力圖生成主程式
+├─ script/                    # 腳本目錄
+│   ├─ dataset2train_val_test/           # 數據集處理腳本
+│   │  ├─ dataset_classes_analysis.py     # 類別分析工具
+│   │  └─ X-AnyLabeling2YOLO.py          # 標註格式轉換工具
+│   │
+│   └─ heatmap_QT/                       # 熱力圖生成工具
+│       └─ YOLO_heatmap_QTv2.py          # 熱力圖生成主程式
+│
+└─ README.md（本檔）            # 專案說明與使用指引（請參閱檔案內容）
 ```

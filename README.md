@@ -33,6 +33,7 @@ YOLO_tools/
 │   │  └─ X-AnyLabeling2YOLO.py          # 標註格式轉換工具
 │   │
 │   └─ heatmap_QT/                       # 熱力圖生成工具
+│       ├─ YOLO熱圖可視化工具使用說明.pdf   # 熱力圖生成說明書
 │       └─ YOLO_heatmap_QTv2.py          # 熱力圖生成主程式
 │
 └─ README.md（本檔）            # 專案說明與使用指引（請參閱檔案內容）

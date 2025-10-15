@@ -40,7 +40,7 @@ YOLO_tools/
 │   └─ toolbox/                          # 工具箱
 │       ├─ run YOLO_toolbox.bat          # Windows 啟動 YOLO 工具箱
 │       ├─ YOLO_toolbox.py               # YOLO 工具箱主程式
-│       └─ YOLO_toolbox說明.pdf          # YOLO 工具箱使用說明
+│       └─ YOLO_toolbox使用說明.pdf          # YOLO 工具箱使用說明書
 │
 └─ README.md（本檔）            # 專案說明與使用指引（請參閱檔案內容）
 ```

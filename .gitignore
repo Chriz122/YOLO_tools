@@ -1,3 +1,16 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode / IDE 設定
+.vscode/
+.idea/
+
+# 虛擬環境
+venv/
+.env/
+
 # 忽略資料目錄
 data/
 models/
